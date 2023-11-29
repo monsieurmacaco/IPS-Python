@@ -3,4 +3,4 @@
 
 
 
-branche trashcan/olddata = anciens dossiers qui ne marchent pas
+branche trashcan/olddata = anciens fichiers qui ne marchent pas
